@@ -15,8 +15,9 @@
 Program:
 
 Developed by:ETTA SUPRAJA
-Reg No: 212223220022
 
+Reg No: 212223220022
+```
 M = 9
 def puzzle(a):
 for i in range(M):
@@ -68,7 +69,7 @@ if (Suduko(grid, 0, 0)):
 puzzle(grid)
 else:
 print("Solution does not exist:")
-
+```
 Output:
 
 ![WhatsApp Image 2024-10-21 at 09 13 51_8090301b](https://github.com/user-attachments/assets/c647fc8a-7125-4d07-be30-96a3caac6a9b)
